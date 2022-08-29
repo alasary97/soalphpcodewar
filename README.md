@@ -9,5 +9,5 @@ seleanjutnya selesaikan soal di src/Soal.php
 setelah selesai run
 
 ```
-php vendor/bin/phpunit --verbose tests
+composer run-script test
 ```
