@@ -14,5 +14,8 @@
             "email": "alasary97@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "scripts": {
+        "test": "vendor/bin/phpunit --verbose tests"
+    }
 }
